@@ -27,13 +27,13 @@ solucionar el problema planteado.
 En primer lugar el problema a desarollar es un buscador de consulta. Nuestro laboratorio intento emular la plataforma IMDb la cual es una base de datos en línea que almacena información relacionada con películas, personal de equipo de producción (directores y productores), actores, series de televisión, programas de televisión, videojuegos, actores de doblaje(Ver imagen 1). Esta plataforma fue elegida por que recibe más de 100 millones de usuarios únicos al mes. En nuestra aplicación se usara la base de datos de esta aplicación. 
 
 
-<a href="https://ibb.co/hVP39pg"><img src="https://i.ibb.co/TtV92zw/Captura-de-pantalla-2019-07-06-a-la-s-23-21-32.png" alt="Captura-de-pantalla-2019-07-06-a-la-s-23-21-32" border="0"></a> Imagen 1
+<a href="https://ibb.co/hVP39pg"><img src="https://i.ibb.co/TtV92zw/Captura-de-pantalla-2019-07-06-a-la-s-23-21-32.png" alt="Captura-de-pantalla-2019-07-06-a-la-s-23-21-32" border="0"></a> <br>Imagen 1
 
-Nuestra plataforma cuenta con un front-end (ver imagen 2) se podran consultar los directores de cada pelicula como muestra a continuación y un backend(ver imagen 3) el cual obtiene de la base de datos de el director especifico de una pelicula.
+Nuestra plataforma cuenta con un front-end (ver imagen 2) donde se podran consultar los directores de cada pelicula como muestra a continuación y un backend(ver imagen 3) el cual obtiene de la base de datos de el director especifico de una pelicula.
 
-<a href="https://ibb.co/V3QLGX1"><img src="https://i.ibb.co/x3f2bVk/Captura-de-pantalla-2019-07-06-a-la-s-23-21-09.png" alt="Captura-de-pantalla-2019-07-06-a-la-s-23-21-09" border="0"></a> 
+<a href="https://ibb.co/V3QLGX1"><img src="https://i.ibb.co/x3f2bVk/Captura-de-pantalla-2019-07-06-a-la-s-23-21-09.png" alt="Captura-de-pantalla-2019-07-06-a-la-s-23-21-09" border="0"></a> <br>
 Imagen 2
-<a href="https://ibb.co/vHPH5Lp"><img src="https://i.ibb.co/47T7y4z/Captura-de-pantalla-2019-07-06-a-la-s-23-22-34.png" alt="Captura-de-pantalla-2019-07-06-a-la-s-23-22-34" border="0"></a>
+<a href="https://ibb.co/vHPH5Lp"><img src="https://i.ibb.co/47T7y4z/Captura-de-pantalla-2019-07-06-a-la-s-23-22-34.png" alt="Captura-de-pantalla-2019-07-06-a-la-s-23-22-34" border="0"></a><br>
 Imagen 3
 
 

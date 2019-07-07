@@ -33,7 +33,7 @@ Nuestra plataforma cuenta con un front-end (ver imagen 2) se podran consultar lo
 
 IMAGEN 2
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://ibb.co/hVP39pg)
 
 IMAGEN 3
 

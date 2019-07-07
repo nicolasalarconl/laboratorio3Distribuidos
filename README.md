@@ -3,7 +3,7 @@
 _ Primer semestre 2019 _
 
 ## Enunciado 📖
-
+<a href="https://ibb.co/hVP39pg"><img src="https://i.ibb.co/TtV92zw/Captura-de-pantalla-2019-07-06-a-la-s-23-21-32.png" alt="Captura-de-pantalla-2019-07-06-a-la-s-23-21-32" border="0"></a>
 
 La búsqueda de información en la Internet ha sido un tema cada vez más recurrente y más difícil de tratar. No soló por el hecho de consultar a
 múltiples lugares geograficos, sino tambien sincronizar los nuevos datos que

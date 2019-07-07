@@ -42,7 +42,7 @@ Para nuestra implementación utilizamos ***Kubernet*** el cual es un orquestador
 
 La arquitectura de Kuberent es la siguiente:
 
-<a href="https://ibb.co/jkwpfFv"><img src="https://i.ibb.co/nM1WmSs/65928300-2256486411065298-3922712340037894144-n.png" alt="65928300-2256486411065298-3922712340037894144-n" border="0"></a><br /><a target='_blank' href='https://es.imgbb.com/'>descargar imagenes jpg gratis</a><br />
+<a href="https://ibb.co/jkwpfFv"><img src="https://i.ibb.co/nM1WmSs/65928300-2256486411065298-3922712340037894144-n.png" alt="65928300-2256486411065298-3922712340037894144-n" border="0"></a><br />
 
 
 Kubernetes sigue una arquitectura maestro-esclavo. Donde el nodo maestro son parte de  un panel de control y los nodos esclavos son los que contienen y  administran los contenedores.
@@ -90,7 +90,7 @@ Para ser una arquitectura de alta disponibilida  se debe asegurar el nivel de re
 
  El proceso de enrutamiento se puede ver en la siguiente imagen:
 
-<a href="https://ibb.co/NxJv8TH"><img src="https://i.ibb.co/G786KHb/services.png" alt="services" border="0"></a><br /><a target='_blank' href='https://es.imgbb.com/'>image uploader</a><br />
+<a href="https://ibb.co/NxJv8TH"><img src="https://i.ibb.co/G786KHb/services.png" alt="services" border="0"></a><br /> <br />
 
 
  Kube-Proxy proporciona balanceo de carga y se utiliza para llegar a los servidores. Kubernetes busca abstraerse de las operaciones de red por lo cual por defecto incluye metricas de analisis para elegir el mejor pod para ejecutar la consulta. Las metricas dependen de un ranking(Valor normalizado) que incluye Memory Usage (memoria utilizada por parte del pod), Memory Limit ( memoria maxima asignada al pod), CPU asignado al pod, réplicas disponibles de los pods, entre otras.  Sin embargo es posible ajustar estas metricas en un archivo de configuraciones.

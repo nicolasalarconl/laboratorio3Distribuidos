@@ -3,7 +3,7 @@
 _ Primer semestre 2019 _
 
 ## Enunciado 📖
-<a href="https://ibb.co/hVP39pg"><img src="https://i.ibb.co/TtV92zw/Captura-de-pantalla-2019-07-06-a-la-s-23-21-32.png" alt="Captura-de-pantalla-2019-07-06-a-la-s-23-21-32" border="0"></a>
+
 
 La búsqueda de información en la Internet ha sido un tema cada vez más recurrente y más difícil de tratar. No soló por el hecho de consultar a
 múltiples lugares geograficos, sino tambien sincronizar los nuevos datos que
@@ -27,15 +27,15 @@ solucionar el problema planteado.
 En primer lugar el problema a desarollar es un buscador de consulta. Nuestro laboratorio intento emular la plataforma IMDb la cual es una base de datos en línea que almacena información relacionada con películas, personal de equipo de producción (directores y productores), actores, series de televisión, programas de televisión, videojuegos, actores de doblaje(Ver imagen 1). Esta plataforma fue elegida por que recibe más de 100 millones de usuarios únicos al mes. En nuestra aplicación se usara la base de datos de esta aplicación. 
 
 
-IMAGEN 1
+<a href="https://ibb.co/hVP39pg"><img src="https://i.ibb.co/TtV92zw/Captura-de-pantalla-2019-07-06-a-la-s-23-21-32.png" alt="Captura-de-pantalla-2019-07-06-a-la-s-23-21-32" border="0"></a> Imagen 1
 
 Nuestra plataforma cuenta con un front-end (ver imagen 2) se podran consultar los directores de cada pelicula como muestra a continuación y un backend(ver imagen 3) el cual obtiene de la base de datos de el director especifico de una pelicula.
 
-IMAGEN 2
+<a href="https://ibb.co/V3QLGX1"><img src="https://i.ibb.co/x3f2bVk/Captura-de-pantalla-2019-07-06-a-la-s-23-21-09.png" alt="Captura-de-pantalla-2019-07-06-a-la-s-23-21-09" border="0"></a> 
+Imagen 2
+<a href="https://ibb.co/vHPH5Lp"><img src="https://i.ibb.co/47T7y4z/Captura-de-pantalla-2019-07-06-a-la-s-23-22-34.png" alt="Captura-de-pantalla-2019-07-06-a-la-s-23-22-34" border="0"></a>
+Imagen 3
 
-![alt text](https://ibb.co/hVP39pg)
-
-IMAGEN 3
 
 Para nuestra implementación utilizamos ***Kubernet*** el cual es un orquestador de contenedores. Esta elección fue debida a que sus principal caracteristica es ser autoescalado dado que en funcion del uso de la cpu de los servidores permite escalar vertical la aplicacion de manera automatica. ademas permite el balanceo de carga y autoreparación en caso de fallos.
 

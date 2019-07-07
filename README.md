@@ -1,6 +1,6 @@
 # Sistemas Distribuidos Laboratorio semestral
 
-_ Primer semestre 2019 _
+ Primer semestre 2019: Nicolas Alarcon y Sandra Hernandez
 
 ## Enunciado 📖
 

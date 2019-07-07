@@ -1,0 +1,29 @@
+version: '3'
+services:
+  db1:
+    image: postgres
+    environment:
+      - POSTGRES_USER=test
+      - POSTGRES_PASSWORD=test
+      - POSTGRES_DB=test
+    hostname: postgres
+    ports:
+      - 5432:5432
+    volumes:
+      - ./script:/docker-entrypoint-initdb.d/
+  back:
+    build: ./back/
+    ports:
+      - 3000:3000
+    depends_on:       
+      - db1
+    volumes:
+      - ./back:/app
+    links:
+      - db1
+  front:
+    build: ./front
+    ports:
+      - 80:80
+    volumes:
+      - ./front:/app
